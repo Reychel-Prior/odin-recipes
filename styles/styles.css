@@ -1,0 +1,14 @@
+h1 {
+    box-sizing: border-box;
+    background-color: bisque;
+    padding: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.recipe-link {
+    text-align: center;
+}
